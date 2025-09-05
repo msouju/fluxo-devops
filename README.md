@@ -15,8 +15,9 @@ Repositório de aprendizado e práticas de **DevOps**, incluindo fluxos de CI/CD
 
 ## 📂 Estrutura do Repositório
 
-``` fluxo-devops/
+```
+fluxo-devops/
 │
 ├─ README.md
 ├─ LICENSE
-└─ .gitignore``` 
+└─ .gitignore
