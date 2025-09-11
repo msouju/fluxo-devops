@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# fluxo-devops
+
+Repositório de aprendizado e práticas de **DevOps**, incluindo fluxos de CI/CD, automações, integração com GitHub Actions, Docker e outras ferramentas relacionadas.
+
+---
+
+## 🚀 Tecnologias
+
+- Git / GitHub
+- GitHub Actions (CI/CD)
+- Docker
+- Linux
+
+---
+
+## 📂 Estrutura do Repositório
+
+```
+fluxo-devops/
+│
+├─ README.md
+├─ LICENSE
+└─ .gitignore
+>>>>>>> e5aa8ba9dab7cd92bc4b2072cf6309eae3f9067f
