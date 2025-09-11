@@ -95,5 +95,5 @@ fluxo-devops/
 └─ .gitignore
 >>>>>>> e5aa8ba9dab7cd92bc4b2072cf6309eae3f9067f
 
-# Teste
-Alteração para disparar workflow
+# Teste 2
+Commit para disparar workflows.
