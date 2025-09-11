@@ -94,3 +94,6 @@ fluxo-devops/
 ├─ LICENSE
 └─ .gitignore
 >>>>>>> e5aa8ba9dab7cd92bc4b2072cf6309eae3f9067f
+
+# Teste
+Alteração para disparar workflow
