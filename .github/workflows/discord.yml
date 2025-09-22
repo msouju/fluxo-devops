@@ -1,0 +1,14 @@
+name: Discord 
+on:
+  - push
+
+jobs:
+  discord:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Discord Webhook Action
+      uses: tsickert/discord-webhook@v7.0.0
+      with:
+        webhook-url: ${{ secrets.WEBHOOK_DISCORD }}
+        content: "Novo push: ${{ github.ref }} por ${{ github.actor }}!"
