@@ -101,3 +101,5 @@ Commit para disparar workflows.
 # Teste 3
 Forçando testes no GitHub Action
 
+# Teste 4
+Testtando a branch discord-action
