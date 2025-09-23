@@ -99,7 +99,10 @@ fluxo-devops/
 Commit para disparar workflows.
 
 # Teste 3
+<<<<<<< HEAD
 Forçando testes no GitHub Action
 
 # Teste 4
+=======
+>>>>>>> 68c1b191f71100c29bbc9b95a87bbc484944289a
 Testtando a branch discord-action
